@@ -52,9 +52,9 @@ tomli==2.0.1 \
     # via
     #   pyproject-api
     #   tox
-tox==4.1.1 \
-    --hash=sha256:5d214ce3e480e3b2cce72dbc9e832296387e7311f76b70de4a649636d02e34c9 \
-    --hash=sha256:d6b9f9f77796fcb1260d46f12dd4d6ebcc16bb73e72f7a683421b365491a912e
+tox==4.1.2 \
+    --hash=sha256:3910e7ddf260de9004738a416f2efdbca21ad7f35d279f8a323117256696535f \
+    --hash=sha256:aa1c07530f07265d025d534715f5e8d522606db71568cf6acbf7eadc30a8d0ed
     # via -r pins/requirements.in
 virtualenv==20.17.1 \
     --hash=sha256:ce3b1684d6e1a20a3e5ed36795a97dfc6af29bc3970ca8dab93e11ac6094b3c4 \
