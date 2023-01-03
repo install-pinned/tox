@@ -42,9 +42,9 @@ pluggy==1.0.0 \
     --hash=sha256:4224373bacce55f955a878bf9cfa763c1e360858e330072059e10bad68531159 \
     --hash=sha256:74134bbf457f031a36d68416e1509f34bd5ccc019f0bcc952c7b909d06b37bd3
     # via tox
-pyproject-api==1.2.1 \
-    --hash=sha256:093c047d192ceadcab7afd6b501276bf2ce44adf41cb9c313234518cddd20818 \
-    --hash=sha256:155d5623453173b7b4e9379a3146ccef2d52335234eb2d03d6ba730e7dad179c
+pyproject-api==1.3.0 \
+    --hash=sha256:6da9b5fcad6f6bdcf88ee0dbc6cc41783e377ceb6767b5004881ecb50ae6d6e7 \
+    --hash=sha256:90d8ce5f7231dce7cdeedbda1568e3cd427ca0cb4cf56f3d936f61d7eca9cde0
     # via tox
 tox==4.1.3 \
     --hash=sha256:9976b41def48a5a2dce477de2c90c8231a5166829aaca916d0952ec4d7429f43 \
