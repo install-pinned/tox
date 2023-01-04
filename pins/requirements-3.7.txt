@@ -59,9 +59,9 @@ tomli==2.0.1 \
     # via
     #   pyproject-api
     #   tox
-tox==4.1.3 \
-    --hash=sha256:9976b41def48a5a2dce477de2c90c8231a5166829aaca916d0952ec4d7429f43 \
-    --hash=sha256:f1840b1698e5187d4c3bae4fe41332c2f3fedde3b6773474899f9e0b329a41dd
+tox==4.2.0 \
+    --hash=sha256:20cafc6c2740671513bd52c0f7912c634a3428237ff70950f41e384335173a42 \
+    --hash=sha256:ac1d997a73ae6a17e7dfe931ec2b5f534677535c857a7e821987083e122a4d33
     # via -r pins/requirements.in
 typing-extensions==4.4.0 \
     --hash=sha256:1511434bb92bf8dd198c12b1cc812e800d4181cfcb867674e0f8279cc93087aa \
