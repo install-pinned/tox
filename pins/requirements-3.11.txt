@@ -46,9 +46,9 @@ pyproject-api==1.4.0 \
     --hash=sha256:ac85c1f82e0291dbae5a7739dbb9a990e11ee4034c9b5599ea714f07a24ecd71 \
     --hash=sha256:c34226297781efdd1ba4dfb74ce21076d9a8360e2125ea31803c1a02c76b2460
     # via tox
-tox==4.2.4 \
-    --hash=sha256:05b1cbf94e02eff40818860b352b4a452d7369558f3bb05809043c6b4c36e5f4 \
-    --hash=sha256:f51407aaff87f6f5361ae2733cffd371940ed001792b60ea50d955c266b3b22b
+tox==4.2.5 \
+    --hash=sha256:a256447ec85a058004231f19ca3df66b3be591a7561c8f8389d1d60b5b629989 \
+    --hash=sha256:dba263a7da1151e3f7c0816bf9efcbad127ee7ec981e5f03b9666b47619c735e
     # via -r pins/requirements.in
 virtualenv==20.17.1 \
     --hash=sha256:ce3b1684d6e1a20a3e5ed36795a97dfc6af29bc3970ca8dab93e11ac6094b3c4 \
