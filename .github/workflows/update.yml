@@ -51,6 +51,7 @@ jobs:
                         raise
                     print(f"Retrying with --python {m[1]}...")
 
+                    # We need to retry twice for some projects.
                     add(m[1])
 
       - run: poetry export -o requirements.txt --directory ${{ runner.temp }} --no-interaction
