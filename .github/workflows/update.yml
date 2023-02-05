@@ -28,23 +28,24 @@ jobs:
           import subprocess
           try:
               subprocess.run([
-                  "poetry", "add", 
-                  "--directory", "${{ runner.temp }}", 
-                  "--no-interaction", 
+                  "poetry", "add",
+                  "--directory", "${{ runner.temp }}",
+                  "--no-interaction",
                   "--lock",
                   "tox"
-              ], check=True, capture_output=True, text=True) 
+              ], check=True, capture_output=True, text=True)
           except subprocess.CalledProcessError as e:
+              print(e.stderr)
               if m := re.search(r'set the `python` property to "(.+?)"', e.stderr):
                   print(f"Retrying with --python {m[1]}...")
                   subprocess.run([
-                      "poetry", "add", 
-                      "--directory", "${{ runner.temp }}", 
-                      "--no-interaction", 
+                      "poetry", "add",
+                      "--directory", "${{ runner.temp }}",
+                      "--no-interaction",
                       "--lock",
                       "--python", m[1],
                       "tox"
-                  ], check=True) 
+                  ], check=True)
               else:
                   raise
       - run: poetry export -o requirements.txt --directory ${{ runner.temp }} --no-interaction
