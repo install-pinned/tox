@@ -10,9 +10,9 @@ colorama==0.4.6 ; python_version >= "3.7" and python_version < "4.0" \
 distlib==0.3.6 ; python_version >= "3.7" and python_version < "4.0" \
     --hash=sha256:14bad2d9b04d3a36127ac97f30b12a19268f211063d8f8ee4f47108896e11b46 \
     --hash=sha256:f35c4b692542ca110de7ef0bea44d73981caeb34ca0b9b6b2e6d7790dda8f80e
-filelock==3.9.1 ; python_version >= "3.7" and python_version < "4.0" \
-    --hash=sha256:4427cdda14a1c68e264845142842d6de2d0fa2c15ba31571a3d9c9a1ec9d191c \
-    --hash=sha256:e393782f76abea324dee598d2ea145b857a20df0e0ee4f80fcf35e72a341d2c7
+filelock==3.10.0 ; python_version >= "3.7" and python_version < "4.0" \
+    --hash=sha256:3199fd0d3faea8b911be52b663dfccceb84c95949dd13179aa21436d1a79c4ce \
+    --hash=sha256:e90b34656470756edf8b19656785c5fea73afa1953f3e1b0d645cef11cab3182
 importlib-metadata==6.0.0 ; python_version >= "3.7" and python_version < "3.8" \
     --hash=sha256:7efb448ec9a5e313a57655d35aa54cd3e01b7e1fbcf72dce1bf06119420f5bad \
     --hash=sha256:e354bedeb60efa6affdcc8ae121b73544a7aa74156d047311948f6d711cd378d
