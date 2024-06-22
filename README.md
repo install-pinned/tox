@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install tox from PyPI
-        uses: install-pinned/tox@8f9a0e676c8734a42b107dc09bc62e62aee1b7e9  # 4.15.1
+        uses: install-pinned/tox@bc706c09e526d5e3899f81a7f8cf6c8ffbc0dc9b  # 4.15.1
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
