@@ -63,9 +63,9 @@ tomli==2.2.1 ; python_full_version < '3.11' \
 tox==4.24.2 \
     --hash=sha256:92e8290e76ad4e15748860a205865696409a2d014eedeb796a34a0f3b5e7336e \
     --hash=sha256:d5948b350f76fae436d6545a5e87c2b676ab7a0d7d88c1308651245eadbe8aea
-typing-extensions==4.12.2 ; python_full_version < '3.11' \
-    --hash=sha256:04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d \
-    --hash=sha256:1a7ead55c7e559dd4dee8856e3a88b41225abfe1ce8df57b7c13915fe121ffb8
+typing-extensions==4.13.0 ; python_full_version < '3.11' \
+    --hash=sha256:0a4ac55a5820789d87e297727d229866c9650f6521b64206413c4fbada24d95b \
+    --hash=sha256:c8dd92cc0d6425a97c18fbb9d1954e5ff92c1ca881a309c45f06ebc0b79058e5
 virtualenv==20.29.3 \
     --hash=sha256:3e3d00f5807e83b234dfb6122bf37cfadf4be216c53a49ac059d02414f819170 \
     --hash=sha256:95e39403fcf3940ac45bc717597dba16110b74506131845d9b687d5e73d947ac
