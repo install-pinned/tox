@@ -24,9 +24,9 @@ pluggy==1.7.0 \
 pyproject-api==1.12.3 \
     --hash=sha256:04a24d61982c9b0e97d07120dcdc1ceab6a16431fbc43df18544846e30b1ca9d \
     --hash=sha256:5bf1f90a915c83831f035cf15998ef98e48e619ff8334fe4dd8110a29aa82af1
-python-discovery==1.9.1 \
-    --hash=sha256:83e3c0024b93e256809dc9cd053537a37df6d3badc3b68aa03006a224336b21f \
-    --hash=sha256:a78322b3b70c5d61dddc2f37ca1beffa9a5ce01cedf3526444e01bfc94f50b35
+python-discovery==1.9.2 \
+    --hash=sha256:65857e689ba72aeb5517e68b7025430ed60372b78d037245e0bed3d41ae7ba65 \
+    --hash=sha256:de397b9c4b09a5fb8bb4c51db3c0da71fb81d2283718d74fd1efaabffc32afbc
 tomli-w==1.2.0 \
     --hash=sha256:188306098d013b691fcadc011abd66727d3c414c571bb01b1a174ba8c983cf90 \
     --hash=sha256:2dd14fac5a47c27be9cd4c976af5a12d87fb1f0b4512f81d69cce3b35ae25021
